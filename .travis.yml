@@ -1,4 +1,5 @@
 language: cpp
+dist: trusty
 env:
   global:
     - NAMEP=matrix-$TRAVIS_BUILD_NUMBER-Linux.deb
