@@ -5,7 +5,7 @@ env:
 before_script:
 - echo "deb http://archive.ubuntu.com/ubuntu xenial main universe" | sudo tee -a /etc/apt/sources.list
 - sudo apt-get update -qq
-- sudo apt-get install doxygen graphviz
+- sudo apt-get install -y gcc-7 g++-7 doxygen graphviz
 script:
 - cmake .
 - cmake --build .
