@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structContainer.html" title="Container\&lt; T \&gt;" alt="" coords="5,31,128,57"/>
+<area shape="rect" id="node2" href="$structCell.html" title="Cell\&lt; T, std_value \&gt;" alt="" coords="177,5,333,32"/>
+<area shape="rect" id="node3" href="$structRow.html" title="Row\&lt; T, std_value \&gt;" alt="" coords="176,56,335,83"/>
+</map>
